@@ -1,5 +1,5 @@
 # Controllable Mixed-Initiative Dialogue Generation through Prompting
-Under construction! This repository primarily contains our code for RAP-GPT3, a chatbot built to function zero-shot in the PersuasionForGood context. However, you can also find the prmopts used for the ESConv evaluation [here](https://github.com/maxlchen/Controllable-Mixed-Initiative-Dialogue-Generation/blob/main/ESConv_Prompts.tsv)
+Under construction! This repository primarily contains our code for RAP-GPT3, a chatbot built to function zero-shot in the PersuasionForGood context. However, you can also find the prompts used for the ESConv evaluation [here](https://github.com/maxlchen/Controllable-Mixed-Initiative-Dialogue-Generation/blob/main/ESConv_Prompts.tsv).
 
 ACL 2023 Citation:
 
