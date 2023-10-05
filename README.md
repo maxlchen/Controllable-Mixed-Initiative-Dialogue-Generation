@@ -1,5 +1,7 @@
 # Controllable Mixed-Initiative Dialogue Generation through Prompting
-Code coming soon!
+Under construction!
+
+ACL 2023 Citation:
 
 ```
 @article{chen2023pre,
@@ -9,3 +11,7 @@ Code coming soon!
   year={2023}
 }
 ```
+
+Original PersuasionForGood Dataset: 
+
+https://gitlab.com/ucdavisnlp/persuasionforgood/-/tree/master/data?ref_type=heads
