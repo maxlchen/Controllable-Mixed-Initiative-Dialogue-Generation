@@ -14,7 +14,7 @@ ACL 2023 Citation:
 
 [paper link](https://aclanthology.org/2023.acl-short.82/)
 
-The original RAP paper was presented at ACL 2022:
+The original RAP paper was presented at AACL 2022:
 
 ```
 @inproceedings{chen2022seamlessly,
