@@ -12,6 +12,15 @@ ACL 2023 Citation:
 }
 ```
 
-Original PersuasionForGood Dataset: 
+## Original PersuasionForGood Dataset: 
 
 https://gitlab.com/ucdavisnlp/persuasionforgood/-/tree/master/data?ref_type=heads
+
+
+## Imitation Learning Classifier:
+
+download [here](https://drive.google.com/file/d/1kLuLme1fS8hTphf-ebgfPCRKHovSX_zc/view?usp=sharing)
+
+[labelencoder_A](https://drive.google.com/file/d/1tb2MnbZVx7gbWgStxUNQLJvEjyHbb8l7/view?usp=sharing)
+
+[labelencoder_B](https://drive.google.com/file/d/1lnyGEOAgWVHH3-NYl7S3ppcOJExVIVpZ/view?usp=sharing)
